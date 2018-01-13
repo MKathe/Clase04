@@ -10,12 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity android:name=".MainActivity">
-
         </activity>
 
         <activity android:name=".BotonesActivity">
-
-
         </activity>
 
         <activity android:name=".BotonesButterknife">
@@ -25,6 +22,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+        <activity android:name=".ActividadDos"></activity>
+
     </application>
 
 </manifest>
